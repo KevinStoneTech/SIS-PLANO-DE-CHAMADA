@@ -73,5 +73,6 @@ try {
 } catch (PDOException $e) {
     echo $e->getMessage();
 }
-header("Location: cad_usu.php");
+header("Location: cad_usu_comp.php");
+//header("Location: cad_usu.php");
 ?>

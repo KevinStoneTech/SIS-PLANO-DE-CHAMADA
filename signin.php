@@ -63,9 +63,9 @@ $token = base64_decode(filter_input(INPUT_GET, "token"));
                                 </div>
                                 <div class="form-group text-center">                                   
                                     <span>Sistema desenvolvido pelo 2º Sgt Francês</span></br>                                  
-                                    <span>2º Batalhão de Fronteira - Seção de Tecnologia da Informação</span>
+                                    <!--<span>2º Batalhão de Fronteira - Seção de Tecnologia da Informação</span>
                                     </br>
-                                    <span>RITEX: 895-1758 / Telefone: 3223-4413 Ramal 223</span>
+                                    <span>RITEX: 895-1758 / Telefone: 3223-4413 Ramal 223</span>-->
                                 </div>
                             </form>
                         </div>

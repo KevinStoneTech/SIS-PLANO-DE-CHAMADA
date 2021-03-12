@@ -2,7 +2,7 @@
 
 require "versession.php";
 require "conexao.php";
-date_default_timezone_set("America/Cuiaba");
+date_default_timezone_set("America/Manaus");
 $pdo = conectar("membros");
 $idusuario = filter_input(INPUT_GET, "idusuario");
 $nome = filter_input(INPUT_POST, "nome");
