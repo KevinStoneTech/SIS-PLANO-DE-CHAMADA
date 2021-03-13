@@ -10,7 +10,7 @@ function conectar($database) {
     define('DB_DRIVER', 'mysql');
     define('DB_HOST', 'localhost');
     define('DB_USER', 'root');
-    define('DB_PWD', 'chupacabra69');
+    define('DB_PWD', '#@!ServerAdmin2020');
     define('DB_DATABASE', $database);
     try {
         $pdo = new PDO(DB_DRIVER . ':host=' . DB_HOST . ';dbname=' . DB_DATABASE, DB_USER, DB_PWD);

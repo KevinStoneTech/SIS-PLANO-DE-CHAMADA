@@ -502,7 +502,7 @@ endwhile;
                                             </div>
                                         </div>
                                     </div>
-					<a href="usu_delete.php"
+					<a href="usu_delete.php?id=<?php echo $idusuario; ?>"
 						<button class="btn btn-danger">
                                                 	Deletar usuário
                                        		</button>
