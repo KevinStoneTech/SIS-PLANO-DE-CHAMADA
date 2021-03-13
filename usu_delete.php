@@ -12,6 +12,12 @@ $deletar->execute();
 
 
 if($deletar):
-	header("Location: cad_usu_comp.php");
+	echo "<script> alert('Deletado com sucesso!'); location.href='cad_usu_comp.php'; </script>";
+	     //header("Location: cad_usu_comp.php");
 endif;
+
+
+
+
+
 ?>
