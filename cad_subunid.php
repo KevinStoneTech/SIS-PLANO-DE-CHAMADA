@@ -96,6 +96,9 @@ include "conexao.php";
                                                 <th>
                                                     Subunidade
                                                 </th>
+                                                <th>
+                                                    Excluir
+                                                </th>
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -108,6 +111,7 @@ include "conexao.php";
                                                 echo("<tr>");
                                                 echo("<td>" . $reg['id'] . "</td>");
                                                 echo("<td>" . $reg['descricao'] . "</td>");
+						echo("<td><a href='subunid_delete.php?descricao=<?php echo $descricao; ?>;'<button class='btn btn-danger'>Excluir</button</td>");
                                                 echo("</tr>");
                                             endwhile;
                                             ?>

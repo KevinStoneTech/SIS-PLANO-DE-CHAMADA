@@ -17,7 +17,4 @@ if($deletar):
 endif;
 
 
-
-
-
 ?>

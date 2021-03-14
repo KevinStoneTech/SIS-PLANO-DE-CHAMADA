@@ -28,6 +28,7 @@
                     <li><a href="cad_bairro.php"><i class="fa fa-codepen" aria-hidden="true"></i><span>Bairros</span></a></li>
                     <li><a href="cad_setor.php"><i class="fa fa-road" aria-hidden="true"></i><span>Setores</span></a></li>
                     <li><a href="cad_subunid.php"><i class="fa fa-sitemap" aria-hidden="true"></i><span>Subunidade</span></a></li>
+
                     <li><a href="cad_pgrad.php"><i class="fa fa-mortar-board" aria-hidden="true"></i><span>Posto / Graduação</span></a></li>
                                 <?php
                             }

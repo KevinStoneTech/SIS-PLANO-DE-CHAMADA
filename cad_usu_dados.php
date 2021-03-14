@@ -502,7 +502,9 @@ endwhile;
                                             </div>
                                         </div>
                                     </div>
-					<a href="javascript: if(confirm('Tem certeza que deseja deletar o usuário <?php echo($nomeguerra); ?>?')) location.href='usu_delete.php?id=<?php echo $idusuario; ?>';"
+					<a href="javascript: if(confirm('Tem certeza que deseja deletar o usuário <?php echo($nomeguerra); ?>?')) 
+						location.href='usu_delete.php?id=<?php echo $idusuario; ?>';"
+
 						<button class="btn btn-danger">
                                                 	Deletar usuário
                                        		</button>
@@ -544,5 +546,6 @@ endwhile;
         <script src="vendor/data-table/extensions/Responsive/js/dataTables.responsive.min.js"></script>
         <script src="vendor/data-table/extensions/Responsive/js/responsive.bootstrap.min.js"></script>
         <script src="javascripts/examples/tables/data-tables.js"></script>
+        <script src="personalizado.js"></script>
     </body>
 </html>
