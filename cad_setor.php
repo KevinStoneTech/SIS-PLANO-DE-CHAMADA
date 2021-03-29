@@ -96,6 +96,9 @@ include "conexao.php";
                                     <th>
                                         Setor
                                     </th>
+                                    <th>
+                                        Excluir
+                                    </th>
                                 </tr>
                                 </thead>
                                 <tbody>
@@ -108,6 +111,7 @@ include "conexao.php";
                                     echo("<tr>");
                                     echo("<td>".$reg['id']."</td>");
                                     echo("<td>".$reg['setor']."</td>");
+				    echo("<td><a href='setor_delete.php?id=$reg[id]' <button class='btn btn-danger'>Excluir</button></td>");
                                     echo("</tr>");
                                 endwhile;
                                 ?>
