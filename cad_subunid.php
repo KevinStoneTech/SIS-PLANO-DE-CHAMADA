@@ -111,7 +111,7 @@ include "conexao.php";
                                                 echo("<tr>");
                                                 echo("<td>" . $reg['id'] . "</td>");
                                                 echo("<td>" . $reg['descricao'] . "</td>");
-						echo("<td><a href='subunid_delete.php?descricao=<?php echo $descricao; ?>;'<button class='btn btn-danger'>Excluir</button</td>");
+						echo("<td><a href='subunid_delete.php?id=$reg[id]' <button class='btn btn-danger'>Excluir</button></td>");
                                                 echo("</tr>");
                                             endwhile;
                                             ?>
