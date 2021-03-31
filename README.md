@@ -8,4 +8,5 @@
 
 ## Função delete acrescentada
 <br>
+
 <img src="https://github.com/KevinStoneTech/KevinStoneTech/blob/master/images/planodechamada3.png" width="830">
