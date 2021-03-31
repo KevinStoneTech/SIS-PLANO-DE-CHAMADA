@@ -2,4 +2,4 @@
 
 ## Em eleboração
 
-<img src="https://github.com/KevinStoneTech/SIS-PLANO-DE-CHAMADA/blob/main/images/12gaaaesl.png">
+<img src="https://github.com/KevinStoneTech/KevinStoneTech/blob/master/images/planodechamada1.png" height="50" width="50">

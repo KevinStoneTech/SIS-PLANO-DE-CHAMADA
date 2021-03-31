@@ -2688,17 +2688,17 @@ html.lock-screen .logo {
 }
 html.lock-screen .logo .avatar {
     margin: auto;
-    max-width: 150px;
-    box-shadow: 1px 1px 4px rgba(255, 255, 255, 0.8);
-    border-radius: 8px;
-    background: #4c4c4c;
-    border: 2px solid #515151;
-    padding: 2px;
+    max-width: 160px;
+//    box-shadow: 1px 1px 4px rgba(255, 255, 255, 0.8);
+//    border-radius: 8px;
+//    background: #4c4c4c;
+//    border: 1px solid #515151;
+//    padding: 2px;
 }
 html.lock-screen .logo .avatar img {
     width: 100%;
-    border-radius: 8px;
-    border: 2px solid #373737;
+//    border-radius: 0;
+//    border: 2px solid #373737;
 }
 
 /*=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=*/

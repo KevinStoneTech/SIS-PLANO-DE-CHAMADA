@@ -23,7 +23,7 @@ $token = base64_decode(filter_input(INPUT_GET, "token"));
             <div class="container">
                 <div class="logo">                    
                     <div class="avatar">
-                        <img alt="Sistema Plano de Chamadas" src="images/sticker.png" />
+                        <img alt="Sistema Plano de Chamadas" src="images/12gaaaesl.png" />
                     </div>
                 </div>                
                 <div class="box animated fadeInUp">
