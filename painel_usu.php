@@ -6,7 +6,7 @@
     <div class="header-section" id="user-headerbox">
         <div class="user-header-wrap">
             <div class="user-photo">
-                <img src="images/user-avatar.jpg" alt="Usuário" />
+                <img src="images/icon-user.png" alt="Usuário" />
             </div>
             <div class="user-info">
                 <span class="user-name"><?php echo($_SESSION['user_pgradsimples'] . " " . $_SESSION['user_guerra']); ?></span>
