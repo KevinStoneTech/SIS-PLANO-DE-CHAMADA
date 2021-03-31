@@ -2,4 +2,4 @@
 
 ## Em eleboração
 
-<img src="https://github.com/KevinStoneTech/KevinStoneTech/blob/master/images/planodechamada1.png" height="550" width="550">
+<img src="https://github.com/KevinStoneTech/KevinStoneTech/blob/master/images/planodechamada1.png" width="800">
