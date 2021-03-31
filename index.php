@@ -108,10 +108,10 @@ $conta2 = $dados2->rowCount();
                                         <i class="fa fa-phone"></i>
                                     </div>
                                     <div class="timeline-content">
-                                        <h4 class="tl-title">Suporte</h4>Seção de Tecnologia da Informação 2º B Fron
+                                        <h4 class="tl-title">Suporte</h4>Seção de Tecnologia da Informação 12º GAAAe Sl
                                     </div>
                                     <div class="timeline-footer">
-                                        <span>2º Sgt Francês (48) 9 9940-6542 - unsolity@hotmail.com</span>
+                                        <span>STI - informatica@12gaaaesl.eb.mil.br</span>
                                     </div>
                                 </div>
                             </div>

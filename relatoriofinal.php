@@ -3,7 +3,7 @@ require "versession.php";
 include "conexao.php";
 //include("mpdf60/mpdf.php");
 include "cabecalho.php";
-date_default_timezone_set("America/Cuiaba");
+date_default_timezone_set("America/Manaus");
 $pdo = conectar("membros");
 $subunidade = filter_input(INPUT_POST, "subunidade");
 $postograd = filter_input(INPUT_POST, "postograd");
@@ -93,9 +93,9 @@ if ($subunidade > 0) { // FOI ESCOLHIDO UMA SUBUNIDADE
                 <td rowspan='3' style='text-align: center;'>
                     <img alt='smiley' height='70' src='./images/eb.jpg' title='smiley' width='50' /></td>
                 <td style='text-align: center;'>
-                    <span style='font-family:trebuchet ms,helvetica,sans-serif;'><strong><big>2º BATALHÃO DE FRONTEIRA</big></strong></span></td>
+                    <span style='font-family:trebuchet ms,helvetica,sans-serif;'><strong><big>12º GRUPO DE ARTILHARIA ANTIAÉREA DE SELVA</big></strong></span></td>
                 <td rowspan='3' style='text-align: center;'>
-                    <img alt='smiley' height='70' src='./images/2bfron.png' title='smiley' width='50' /></td>
+                    <img alt='smiley' height='70' src='./images/12gaaaesl.png' title='smiley' width='50' /></td>
             </tr>
             <tr>
                 <td style='text-align: center;'>
